@@ -6,8 +6,8 @@ About me:
 - 🌱 I'm currently learning Blockchain
 - 😄 Suggestions/help always welcome
 - ⚡ Have learnt AWS cloud hands-on pretty much, but still exploring more
-- These stats below will definitely improve some day
 - In love with my new Macbook, lol
+- These stats below will definitely improve some day
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ani20ket&show_icons=true&theme=dark)
