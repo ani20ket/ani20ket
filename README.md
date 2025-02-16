@@ -1,6 +1,6 @@
 Hello I am Aniket!!
 
-I am an IT engineering student in Pune, India.
+I am a Masters Student at Newcastle University, UK.
 
 About me:
 - 🌱 I'm currently learning Blockchain
